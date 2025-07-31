@@ -1,0 +1,371 @@
+SURVEY ON OCCUPATIONAL STRESS, JOB SATISFACTION AND JOB PERFORMANCE
+
+Section A: Sociodemographic
+
+Please answer all the questions below and tick (/) at the appropriate answer.
+
+1. How old are you? 
+
+2. What is your religion?
+
+3. What is your ethnicity?
+
+4. What is your marital status? 
+
+5. How long is your marriage? 
+
+6. How many children do you have?
+
+7. What is your highest educational level? 
+
+8. What is your employment status?
+
+9. How long have you worked? 
+
+10. What is your average household income? 
+
+Section B: Occupational Stress
+
+This section of the questionnaire contains items that are related to working conditions that migh affect worker well-being.
+ 
+Please tick (/) at the appropriate answer.
+ Indicators:
+1 Never 	2 Seldom 	3 Sometimes 	4 Often 	5 Always 
+
+Working conditions
+OS1 I am clear what is expected of me at work.
+OS2 I can decide when to take a break.
+OS3 Different groups at work demand things from me that are hard to combine.
+OS4 I know how to go about getting my job done.
+OS5 I am subject to personal harassment in the form of unkind words or behavior.
+OS6 I have unachievable deadlines.
+OS7 If work gets difficult, my colleagues will help me.
+OS8 I am given supportive feedback on the work I do.
+OS9 I have to work very intensively.
+OS10 I have a say in my own work speed.
+OS11 I am clear what my duties and responsibilities are.
+OS12 I have to neglect some tasks because I have too much to do.
+OS13 I am clear about the goals and objectives for my department.
+OS14 There is friction or anger between colleagues.
+OS15 I have choice in deciding how I do my work.
+OS16 I am unable to take sufficient breaks.
+OS17 I understand how my work fits into the overall aim of the organisation.
+OS18 I am pressured to work long hours.
+OS19 I have a choice in deciding what I do at work.
+OS20 I have to work very fast.
+OS21 I am subject to bullying at work.
+OS22 I have unrealistic time pressures.
+OS23 I can rely on my line manager to help me out with a work problem.
+OS24 I get help and support I need from colleagues.
+OS25 I have some say over the way I work.
+OS26 I have sufficient opportunities to question managers about change at work.
+OS27 I receive the respect at work I deserve from my colleagues.
+OS28 Staff are always consulted about change at work.
+OS29 I can talk to my line manager about something that has upset or annoyed me about work.
+OS30 My working time can be flexible.
+OS31 My colleagues are willing to listen to my work-related problems.
+OS32 When changes are made at work, I am clear how they will work out in practice.
+OS33 I am supported through emotionally demanding work.
+OS34 Relationships at work are strained.
+OS35 My line manager encourages me at work.
+
+Work-family conflict
+
+OS36 Do you often feel a conflict between your work and your private life, making you want to be in both places at the same time?
+
+1 Yes, often
+2 Yes, sometimes
+3 Rarely
+4 No, never
+
+The next three questions concern the ways in which your work affects your private life:
+
+1 Yes, certainly
+2 Yes, to a certain degree
+3 Yes, but only very little
+4 No, not at all
+
+OS37 Do you feel that your work drains so much of your energy that it has a negative effect on your private life?
+OS38 Do you feel that your work takes so much of your time that it has a negative effect on your private life?
+OS39 Do your friends or family tell you that you work too much?
+
+
+The next two questions concern the ways in which your private life affects your work:
+1 Yes, certainly
+2 Yes, to a certain degree
+3 Yes, but only very little
+4 No, not at all
+
+OS40 Do you feel that your private life takes so much of your energy that it has a negative effect on your work?
+OS41 Do you feel that your private life takes so much of your time that it has a negative effect on your work?
+
+
+Section C: Job Satisfaction
+ 
+This section of the questionnaire contains items that related to your satisfaction with each aspect of your job.
+
+1 Strongly disagree 	2 Disagree 	3 Neutral 	4 Agree 	5 Strongly agree 
+
+No.
+Items
+Scale
+
+JS1 I feel I am being paid a fair amount for the work I do.
+1
+2
+3
+4
+5
+
+JS2 There is really too little chance for promotion on my job.
+1
+2
+3
+4
+5
+
+JS3 My supervisor is quite competent in doing his/her job.
+1
+2
+3
+4
+5
+
+JS4 I am not satisfied with the benefits I receive.
+1
+2
+3
+4
+5
+
+JS5 When I do a good job, I receive the recognition for it that I should receive.
+1
+2
+3
+4
+5
+
+JS6 Many of our rules and procedures make doing a good job difficult.
+1
+2
+3
+4
+5
+
+JS7 I like the people I work with.
+1
+2
+3
+4
+5
+
+JS8 I sometimes feel my job is meaningless.
+1
+2
+3
+4
+5
+
+JS9 Communications seem good within this organization.
+1
+2
+3
+4
+5
+
+JS10 Raises are too few and far between.
+1
+2
+3
+4
+5
+
+JS11 Those who do well on the job stand a fair chance of being promoted.
+1
+2
+3
+4
+5
+
+JS12 My supervisor is unfair to me.
+1
+2
+3
+4
+5
+
+JS13 The benefits we receive are as good as most other organizations offer.
+1
+2
+3
+4
+5
+
+JS14 I do not feel that the work I do is appreciated. 
+1
+2
+3
+4
+5
+
+JS15 My efforts to do a good job are seldom blocked by red tape.
+1
+2
+3
+4
+5
+
+JS16 I find I have to work harder at my job because of the incompetence of people I work with.
+1
+2
+3
+4
+5
+
+JS17 I like doing the things I do at work.
+1
+2
+3
+4
+5
+
+JS18 The goals of this organization are not clear to me.
+1
+2
+3
+4
+5
+
+JS19 I feel unappreciated by the organization when I think about what they pay me.
+1
+2
+3
+4
+5
+
+JS20 People get ahead as fast here as they do in other places.
+1
+2
+3
+4
+5
+
+JS21 My supervisor shows too little interest in the feelings of subordinates.
+1
+2
+3
+4
+5
+
+JS22 The benefit package we have is equitable. 
+1
+2
+3
+4
+5
+
+JS23 There are few rewards for those who work here.
+1
+2
+3
+4
+5
+
+JS24 I have too much to do at work.
+1
+2
+3
+4
+5
+
+JS25 I enjoy my co-workers.
+1
+2
+3
+4
+5
+
+JS26 I often feel that I do not know what is going on with the organization.
+1
+2
+3
+4
+5
+
+JS27 I feel a sense of pride in doing my job.
+1
+2
+3
+4
+5
+
+JS28 I feel satisfied with my chances for salary increases. 
+1
+2
+3
+4
+5
+
+JS29 There are benefits we do not have which we should have.
+1
+2
+3
+4
+5
+
+JS30 I like my supervisor.
+1
+2
+3
+4
+5
+
+JS31 I have too much paperwork.
+1
+2
+3
+4
+5
+
+JS32 I do not feel my efforts are rewarded the way they should be.
+1
+2
+3
+4
+5
+
+JS33 I am satisfied with my chances for promotion.
+JS34 There is too much bickering and fighting at work.
+JS35 My job is enjoyable.
+JS36 Work assignments are not fully explained.
+
+
+
+Section D: Job Performance
+
+This section of the questionnaire contain items that evaluate your job performance despite having a fertility problem.
+
+JP1 I can complete my tasks despite my fertility problem.
+JP2 I can focus in achieving my goals at work even with my fertility problem.
+JP3 I feel energized in completing my work even with my fertility problem.
+JP4 I find it difficult to manage work-related stress because of my fertility problem.
+JP5 My fertility problem prevents me from enjoying my work.
+JP6 I give up trying to complete specific tasks because of my fertility problem.
+
+Scale:
+1 Strongly disagree 	2 Disagree	3 Neutral 	4 Agree 	5 Strongly agree 
+
+Section E: Male Fertility
+
+Respondent’s fertility status:
+1.	☒ Normal
+2.	☐ Oligozoospermia
+3.	☐ Asthenozoospermia
+4.	☐ Teratozoospermia
+5.	☐ Oligoasthenozoospermia
+6.	☐ Asthenoteratozoospermia
+7.	☐ Oligoasthenoteratozoospermia_OATs
+8.	☐ Azoospermia
+
+
+
