@@ -50,3 +50,26 @@ Human Mortality Database
 
 The Human Mortality Database (HMD) is the world's leading scientific data resource on mortality in developed countries. The HMD provides detailed high-quality harmonized mortality and population estimates to researchers, students, journalists, policy analysts, and others interested in human longevity. The HMD follows open data principles.
 
+August 2025 - djs
+
+SURVEY ON OCCUPATIONAL STRESS, JOB SATISFACTION AND JOB PERFORMANCE in India
+all categorical data except respondent's ID
+
+Section A: Sociodemographic - age, religion, ethnicity, marital status, children, education level, employment status, household income
+Section B: Occupational Stress
+Section C: Job Satisfaction
+Section D: Job Performance - job performance despite having a fertility problem
+Section E: Male Fertility - Respondent’s fertility status:
+1.	☒ Normal
+2.	☐ Oligozoospermia
+3.	☐ Asthenozoospermia
+4.	☐ Teratozoospermia
+5.	☐ Oligoasthenozoospermia
+6.	☐ Asthenoteratozoospermia
+7.	☐ Oligoasthenoteratozoospermia_OATs
+8.	☐ Azoospermia
+
+
+visem
+
+participant BMI, age, sperm quantity and quality, sex hormones; serum levels, fatty acids; spermatozoa and serum levels, and image files 

@@ -1,0 +1,56 @@
+The purpose of the capstone project is to reinforce and show off what you know to potential employers. Your portfolio is how you stand out from everyone else!
+
+Expectations by Module
+Module 3: Develop your Project Plan during this phase. Collaborate with mentors to refine your ideas and strategies. Present projects early so you can think about ideas!
+
+Module 4 (Capstone): Ensure the submission of the "Turn In Form" for the project. Submissions can be made until the due date/time. The project should be rigorously tested and reviewed by a mentor.
+
+capstone project must be submitted by Noon, Friday, 8/8/2025 EST
+
+Capstone Prep M3 week_1
+Over the next five weeks, we’ll be focusing on SQL and Tableau. The workload for this module is intentionally lighter to give you time to begin preparing for your capstone project.
+
+When looking for data for your capstone, keep the following in mind:
+Choose a topic you’re genuinely interested in, it’ll make the process more engaging and meaningful.
+Look for multiple datasets related to your chosen topic.
+You’ll need at least two datasets.
+These datasets should be related in a way that allows you to join them together, either by a shared key or a logical connection.
+We will learn more about joins in week 2!
+
+
+
+Capstone Prep 2 M3 week 2
+This week for capstone prep:
+You should have your topic narrowed down
+Have at least two datasets downloaded
+Create and set up your GitHub repository
+Start working with your data by reading it into your notebook
+
+Capstone Prep 3 M3 week 3
+This week for capstone prep:
+Perform exploratory data analysis (EDA) on your dataset
+Begin cleaning your data to prepare it for analysis and feature engineering
+
+Capstone Prep 4 M3 week 4
+This week for capstone prep:
+Continue with data cleaning — handle missing values, fix formatting issues, and remove any inconsistencies
+Begin feature engineering — create new variables or transform existing ones to help uncover insights
+
+Capstone Prep 5 M3 week 5
+This week for capstone prep:
+Wrap up your data cleaning — make sure your datasets are consistent, complete, and ready to work with
+Join your datasets — combine your data meaningfully using shared keys or logical relationships
+Did you like this lesson?
+
+imgimg
+
+Assigned Work Timeline
+ITEM	DATES
+Resume Review	Due Sunday, 6/8/25
+OpenClass 100%	Due Sunday, 6/29/25
+Project Plan	Due Sunday, 6/29/25
+“Project Turn In Form” in OpenClass	Week of 7/14/25 (Module 4 Begins)
+2nd Tech Event	Due Sunday, 7/20/25
+Capstone Project	Due, FRIDAY 8/8/25 at NOON. No extensions.
+Communications Workshop	Week of 7/14/25
+Demo Day	TBD-start wk of August 11
