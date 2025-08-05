@@ -4,6 +4,8 @@ data and supporting information were downloaded from
 National Survey of Family Growth (NSFG)
 from CDC National Center for Health Statistics
 
+Population: males in the USA
+
 NSFG Background and Impact
 
 The National Survey of Family Growth (NSFG) gathers information on pregnancy and births, marriage and cohabitation, infertility, use of contraception, family life, and general and reproductive health. The survey sample is designed to produce national data, not estimates for individual states. The information below provides a brief history of data collection, a summary of available data files, a description of the impact of NSFG, and details about the co-sponsoring agencies of the survey.
@@ -50,10 +52,15 @@ Human Mortality Database
 
 The Human Mortality Database (HMD) is the world's leading scientific data resource on mortality in developed countries. The HMD provides detailed high-quality harmonized mortality and population estimates to researchers, students, journalists, policy analysts, and others interested in human longevity. The HMD follows open data principles.
 
-August 2025 - djs
 
+
+June 2025 - djs
+
+Downloaded from Kaggle:
 SURVEY ON OCCUPATIONAL STRESS, JOB SATISFACTION AND JOB PERFORMANCE in India
 all categorical data except respondent's ID
+Contains ~94 questions in the questionnaire.
+Population: males in India
 
 Section A: Sociodemographic - age, religion, ethnicity, marital status, children, education level, employment status, household income
 Section B: Occupational Stress
@@ -68,8 +75,36 @@ Section E: Male Fertility - Respondent’s fertility status:
 6.	☐ Asthenoteratozoospermia
 7.	☐ Oligoasthenoteratozoospermia_OATs
 8.	☐ Azoospermia
+Credits - Majid, Nur Fatma Husna; Muhamad, Suriyani; Kusairi, Suhal; Ramli, Roszaman (2023), “Survey Dataset on Occupational Stress, Job Satisfaction and Job Performance Among Male Fertility Patients (Original Data)”, Mendeley Data, V2, doi: 10.17632/cgyh5s88kc.2
 
 
-visem
+
+Downloaded from Kaggle:
+"visem video dataset"
+
+Population: males in Norway, >= 18 years
 
 participant BMI, age, sperm quantity and quality, sex hormones; serum levels, fatty acids; spermatozoa and serum levels, and image files 
+
+CSV-files are:
+	semen_analysis_data: The results of standard semen analysis.
+	fatty_acids_spermatozoa: The levels of several fatty acids in the spermatozoa of the participants.
+	fatty_acids_serum: The serum levels of the fatty acids of the phospholipids (measured from the blood of the participant).
+	sex_hormones: The serum levels of sex hormones measured in the blood of the participants.
+	participant_related_data: General information about the participants such as age, abstinence time, and Body Mass Index (BMI).
+	videos: Overview of which video-file belongs to what participant.
+
+copied from Kaggle website:
+"Data Collection
+The presented data was originally collected for studies on how overweight and obesity relate to the male reproductive function. Participants in the study were males aged 18 years or older and were recruited between 2008 and 2013 from the normal population through advertisements in newspapers and weight loss programs, and patients from obesity and fertility clinics. Further details on the recruitment have been described previously by Andersen et al. The study was approved by the Regional Committee for Medical and Health Research Ethics, South East, Norway, and all participants provided written informed consent. The project was closed in December of 2017, and all data was anonymized. Participants in the study provided semen samples, and standard semen analysis was performed according to WHO recommendation, including assessment of sperm motility, sperm concentration and total sperm count, ejaculate volume, sperm morphology, and sperm vitality. For video recording for sperm motility, a sample was placed on a heated microscope stage (37 degrees C) and examined under 400 times magnification using an Olympus CX31 microscope. Videos were captured by a microscope-mounted camera (specifically a UEye UI-2210C made by IDS Imaging Development Systems in Germany) and saved as an AVI file. Motility analysis was performed based on the videos. Fatty acids from spermatozoa and serum phospholipids were extracted from the samples and analyzed by gas chromatography. Sex hormones were measured in blood samples. Additionally, AMH was measured in seminal plasma. For the association studies, multiple linear regression and partial correlation were used for statistical analyses, with SPSS Statistics 20 as the analysis tool.
+
+Dataset Details
+VISEM contains data from 85 male participants aged 18 years or older. For each of the participants, parameters from a standard semen analysis, a video of live spermatozoa, sperm fatty acid profile, the fatty acid composition of phospholipids of serum, demographic data, and WHO analysis data are available. For some participants, two video files were made since there was a drift in the first sample recorded. This makes it difficult for the laboratory personnel to assess the motility. We decided to only include one video per participant due to dataset size concerns. The dataset contains over 35 gigabytes of videos, with each video lasting between two to seven minutes. The resolution of the videos is $640 \times 480$, and the frame-rate is 50 frames per second. The dataset contains in total six CSV-files (five for data and one for the video to participant ID mapping), a description file, and a video folder, Each of the video files are named with an ID, the date of video capture, and a small optional description. Then, the end of the filename contains the code of the person who assessed the video using the WHO standard. Further, VISEM contains five CSV-files for each of the other data provided, a CSV-file with the IDs linked to each of their video, and a text file containing descriptions of some of the columns of the CSV-files. One row in each CSV-file represents a participant.
+
+Terms of use
+The use of the Visem dataset is restricted for research and educational purposes only. The use of the Visem dataset for other purposes including commercial purposes is forbidden without prior written permission. In all documents and papers that use or refer to the Visem dataset or report experimental results based on the Visem dataset, a reference to the dataset paper have to be included: https://dl.acm.org/doi/10.1145/3304109.3325814
+
+Trine B. Haugen, Steven A. Hicks, Jorunn M. Andersen, Oliwia Witczak, Hugo L. Hammer, Hanna Borgli, Pål Halvorsen, Michael A. Riegler, VISEM: A Multimodal Video Dataset of Human Spermatozoa, In MMSys'19 Proceedings of the 10th ACM on Multimedia Systems Conference (MMSYS), Amherst, MA, USA, June 18 - 21, 2019.
+
+Contact
+Email michael (at) simula (dot) no if you have any questions about the dataset and our research activities. We always welcome collaboration and joint research!
