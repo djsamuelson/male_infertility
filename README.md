@@ -56,8 +56,9 @@ Following is a brief description of how data-analysis capstone-project-requireme
         -   Conclusion: Still, it will be worthwile to perform logistic regression analyses of the infertility proxy on health conditions contained in the NSFG database.
      
     # Analysis of the molecular signature data from Visem uncovered evidence of multiple positive and negative correlations between variables.
-        -   Conclusion: 1. Worthwhile to revisit this analysis to make seperate plots for each biological category (i.e. corr of hormone levels with sperm measurements). 2. Worthy to integrate gene ontology and pathway analyses with the Visem molecular signatures </br>
-
+        -   Conclusion: 1. Worthwhile to revisit this analysis to make seperate plots for each biological category (i.e. corr of hormone levels with sperm measurements).</br> 2. Worthy to integrate gene ontology and pathway analyses with the Visem molecular signatures </br>
+![Correlation HeatMap of Molecular Signatures of Male Fertility ](image/mol_sig_heatmap.png) </br>
+Positive and negative correlations between sperm quality and biochemistry are evident.</br>
 ## data dictionaries
 
 - NSFG infertility related:
