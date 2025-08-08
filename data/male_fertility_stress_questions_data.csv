@@ -1,4 +1,15 @@
 q_id,q_text
+Age,How old are you? 
+Religion,What is your religion?
+Ethnicity,What is your ethnicity?
+Marital_status,What is your marital status? 
+Marriage_period,How long is your marriage? 
+children_n,How many children do you have?
+Educational_level,What is your highest educational level? 
+Employment_status,What is your employment status?
+Working_period,How long have you worked? 
+Household_income,What is your average household income?
+Sperm_quality,1_8
 OS1,"I am clear what is expected of me at work."
 OS2,"I can decide when to take a break."
 OS3,"Different groups at work demand things from me that are hard to combine."
@@ -82,3 +93,6 @@ JP3,"I feel energized in completing my work even with my fertility problem."
 JP4,"I find it difficult to manage work-related stress because of my fertility problem."
 JP5,"My fertility problem prevents me from enjoying my work."
 JP6,"I give up trying to complete specific tasks because of my fertility problem."
+sperm_quality_category,['Normal', 'Oligozoospermia', 'Asthenozoospermia', 'Teratozoospermia',
+                   'Oligoasthenozoospermia', 'Asthenoteratozoospermia', 'Oligoasthenoteratozoospermia_OATs',
+                   'Azoospermia']
